@@ -45,7 +45,8 @@
 
 ## 📊 GitHub Stats
 
-![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohagannamA&show_icons=true&theme=radical)
+![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohagannamA&show_icons=true&theme=radical&hide_rank=false&count_private=true&include_all_commits=true&hide_border=false)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohagannamA&layout=compact&theme=radical)
 
