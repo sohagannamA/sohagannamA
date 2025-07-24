@@ -2,7 +2,7 @@
 
 🎓 A passionate Computer Science student (1st Year)  
 🏫 Studying at **Daffodil International University**  
-💻 Aspiring Full Stack Developer | Problem Solver | Tech Explorer
+💻 Aspiring **Full Stack Developer** | **Problem Solver** | **Tech Explorer**
 
 ---
 
